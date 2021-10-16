@@ -1,3 +1,9 @@
+# 3.0.0
+## docs:
+- CHANGELOG and VERSION are updated
+## feat:
+- The third lab is added
+
 # 2.0.0
 ## docs:
 - CHANGELOG and VERSION are updated
